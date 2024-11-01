@@ -1,0 +1,179 @@
+[window]
+
+startup_mode = "Maximized"
+opacity = 0.97
+padding.x = 10
+padding.y = 10
+decorations = "Full"
+decorations_theme_variant = "Dark" # "Light"
+
+[font]
+
+normal.family = "Hack Nerd Font"
+# bold.family = "Hack Nerd Font"
+# italic.family = "Hack Nerd Font"
+# bold_italic.family = "Hack Nerd Font"
+
+size = 13.0
+
+
+# colors
+# Dracula colors
+# [colors.primary]
+# background = '#282a36'
+# foreground = '#f8f8f2'
+#
+# # Normal colors
+# [colors.normal]
+# black   = '#000000'
+# red     = '#ff5555'
+# green   = '#50fa7b'
+# yellow  = '#f1fa8c'
+# blue    = '#bd93f9'
+# magenta = '#ff79c6'
+# cyan    = '#8be9fd'
+# white   = '#bbbbbb'
+#
+# # Bright colors
+# [colors.bright]
+# black   = '#555555'
+# red     = '#ff5555'
+# green   = '#50fa7b'
+# yellow  = '#f1fa8c'
+# blue    = '#caa9fa'
+# magenta = '#ff79c6'
+# cyan    = '#8be9fd'
+# white   = '#ffffff'
+
+# Colors (Dracula+)
+
+# [colors.primary]
+# background = '#212121'
+# foreground = '#F8F8F2'
+#
+# [colors.cursor]
+# text = '#0E1415'
+# cursor = '#ECEFF4'
+#
+# [colors.normal]
+# black = '#21222C'
+# red = '#FF5555'
+# green = '#50FA7B'
+# yellow = '#FFCB6B'
+# blue = '#82AAFF'
+# magenta = '#C792EA'
+# cyan = '#8BE9FD'
+# white = '#F8F9F2'
+#
+# [colors.bright]
+# black = '#545454'
+# red = '#FF6E6E'
+# green = '#69FF94'
+# yellow = '#FFCB6B'
+# blue = '#D6ACFF'
+# magenta = '#FF92DF'
+# cyan = '#A4FFFF'
+# white = '#F8F8F2'
+
+# Catpucchin macchiato
+# [colors.primary]
+# background = '#24273A' # base
+# foreground = '#CAD3F5' # text
+# # Bright and dim foreground colors
+# dim_foreground = '#CAD3F5' # text
+# bright_foreground = '#CAD3F5' # text
+#
+# # Cursor colors
+# [colors.cursor]
+# text = '#24273A' # base
+# cursor = '#F4DBD6' # rosewater
+#
+# [colors.vi_mode_cursor]
+# text = '#24273A' # base
+# cursor = '#B7BDF8' # lavender
+#
+# # Search colors
+# [colors.search.matches]
+# foreground = '#24273A' # base
+# background = '#A5ADCB' # subtext0
+#
+# [colors.search.focused_match]
+# foreground = '#24273A' # base
+# background = '#A6DA95' # green
+#
+# [colors.footer_bar]
+# foreground = '#24273A' # base
+# background = '#A5ADCB' # subtext0
+#
+# # Keyboard regex hints
+# [colors.hints.start]
+# foreground = '#24273A' # base
+# background = '#EED49F' # yellow
+#
+# [colors.hints.end]
+# foreground = '#24273A' # base
+# background = '#A5ADCB' # subtext0
+#
+# # Selection colors
+# [colors.selection]
+# text = '#24273A' # base
+# background = '#F4DBD6' # rosewater
+#
+# # Normal colors
+# [colors.normal]
+# black = '#494D64' # surface1
+# red = '#ED8796' # red
+# green = '#A6DA95' # green
+# yellow = '#EED49F' # yellow
+# blue = '#8AADF4' # blue
+# magenta = '#F5BDE6' # pink
+# cyan = '#8BD5CA' # teal
+# white = '#B8C0E0' # subtext1
+#
+# # Bright colors
+# [colors.bright]
+# black = '#5B6078' # surface2
+# red = '#ED8796' # red
+# green = '#A6DA95' # green
+# yellow = '#EED49F' # yellow
+# blue = '#8AADF4' # blue
+# magenta = '#F5BDE6' # pink
+# cyan = '#8BD5CA' # teal
+# white = '#A5ADCB' # subtext0
+#
+# # Dim colors
+# [colors.dim]
+# black = '#494D64' # surface1
+# red = '#ED8796' # red
+# green = '#A6DA95' # green
+# yellow = '#EED49F' # yellow
+# blue = '#8AADF4' # blue
+# magenta = '#F5BDE6' # pink
+# cyan = '#8BD5CA' # teal
+# white = '#B8C0E0' # subtext1
+
+
+# color monokai
+[colors.primary]
+background = "#272822"
+foreground = "#f8f8f2"
+
+[colors.normal]
+black = "#272822"
+red = "#f92672"
+green = "#a6e22e"
+yellow = "#f4bf75"
+blue = "#66d9ef"
+magenta = "#ae81ff"
+cyan = "#a1efe4"
+white = "#f8f8f2"
+
+[colors.bright]
+black = "#75715e"
+red = "#f92672"
+green = "#a6e22e"
+yellow = "#f4bf75"
+blue = "#66d9ef"
+magenta = "#ae81ff"
+cyan = "#a1efe4"
+white = "#f9f8f5"
